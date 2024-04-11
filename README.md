@@ -10,6 +10,8 @@ Graduado em Análise e desenvolvimento de sistemas, tenho me dedicado ao desenvo
 
 
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=lleandrostt&show_icons=true&theme=highcontrast)
+<img height="195m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleandrostt&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 
 ## Tecnologias 
